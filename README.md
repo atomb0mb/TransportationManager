@@ -6,7 +6,7 @@ This project involves
 4. Disjoint-set/Union
 5. Heaps/Priority Queues
 6. Acyclic undirected graph
-
+7. Kruskal algorithm
 
 Steps to find the minimum cost of connected highway (From Destination A to Destination B)
 
